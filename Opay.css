@@ -1,0 +1,599 @@
+.container{
+	width: 100%;
+	overflow: none;
+}
+
+
+
+#main-header{
+	padding-left: 25px;
+	padding-top: 20px;
+}
+
+
+#nav-bar ul{
+	text-align: center;
+	list-style-type: none;
+	margin-top: -36px;
+}
+
+#nav-bar li{
+	display: inline;
+	padding-left: 20px;
+	font-size: 15px;
+	font-family: bell mt;
+}
+
+#nav-bar a{
+	color: black;
+	text-decoration: none;
+}
+
+#nav-bar a:hover{
+	color: purple;
+	cursor: pointer;
+}
+
+.button{
+	float: right;
+	margin-top: -36px;
+	font-size: 18px;
+	font-family: bell mt;
+	background-color: blueviolet;
+	color: white;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.button a{
+	color: white;
+	text-decoration: none;
+}
+
+#main-section{
+	padding-top: 150px;
+}
+
+/*.take{
+	background-image: url(phone.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 45%;
+}*/
+
+.take h1{
+	font-family: bell mt;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.take p{
+	font-size: 20px;
+	font-family: inherit;
+	color: grey;
+	padding-bottom: 50px;
+}
+
+.take a{
+	border-radius: 40px;
+	background-color: blueviolet;
+	font-family: inherit;
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 20px;
+}
+
+.take img{
+	float: right;
+	position: relative;
+	top: -300px;
+}
+
+.meet{
+	margin-top: 160px;
+}
+
+.meet h2{
+	 margin-left: 60%;
+	position: relative;
+	top: -160px;
+	font-size: 15px;
+	color: #8a2be2;
+	font-family: bell mt;
+	font-weight: bold;
+}
+
+.meet h1{
+	margin-left: 60%;
+	position: relative;
+	top: -170px;
+	font-family: inherit;
+	font-size: 45px;
+}
+
+.meet p{
+	margin-left: 60%;
+	position: relative;
+	top: -185px;
+	color: grey;
+}
+
+.meet img{
+	position: relative;
+	top: -350px;
+	margin-left: 350px;
+}
+
+.control{
+	margin-top: -200px;
+	margin-left: 200px;
+}
+
+.control h2{
+	font-family: inherit;
+	font-size: medium;
+	color: blueviolet;
+	font-weight: bold;
+}
+
+.control h1{
+	font-family: inherit;
+	font-size: 45px;
+	position: relative;
+	top: -20px;
+}
+
+.control p{
+	position: relative;
+	top: -30px;
+	color: grey;
+	font-family: inherit;
+}
+
+.control img{
+	float: right;
+	position: relative;
+	top: -160px;
+}
+
+.keep{
+	margin-top: 550px;
+}
+
+.keep h2{
+	margin-left: 60%;
+	position: relative;
+	top: -160px;
+	font-size: medium;
+	color: blueviolet;
+	font-family: inherit;
+}
+
+.keep h1{
+	margin-left: 60%;
+	position: relative;
+	top: -170px;
+	font-family: inherit;
+	font-size: 45px;
+}
+
+.keep p{
+	margin-left: 60%;
+	position: relative;
+	top: -185px;
+	color: grey;
+	font-size: medium;
+}
+
+.keep img{
+	position: relative;
+	top: -350px;
+	margin-left: 350px;
+}
+
+.get{
+	margin-top: -200px;
+	margin-left: 200px;
+}
+
+.get h2{
+	color: blueviolet;
+	font-size: medium;
+	font-family: inherit;
+}
+
+.get h1{
+	font-family: inherit;
+	font-size: 45px;
+	margin-top: 20px;
+}
+
+.get p{
+	color: grey;
+	position: relative;
+	top: -20px;
+	font-size: medium;
+}
+
+.get img{
+	float: right;
+	position: relative;
+	top: -300px;
+	margin-right: 250px;
+}
+
+.partners{
+	margin-top: 450px;
+}
+
+.partners h2{
+	font-size: medium;
+	margin-left: 500px;
+	color: blueviolet;
+	font-family: bell mt;
+}
+
+.partners h1{
+	font-size: 45px;
+	margin-left: 530px;
+	margin-top: 15px;
+}
+
+.partners p{
+	font-size: 18px;
+	margin-left: 440px;
+	margin-top: -20px;
+	color: grey;
+}
+
+.partners img{
+	margin-top: 70px;
+	padding-left: 250px;
+}
+
+.fcmb{
+	margin-left: 40px;
+}
+
+.gtbank{
+	margin-left: -100px;
+}
+
+.pola{
+	margin-left: -100px;
+}
+
+.diamond{
+	margin-left: -100px;
+}
+
+.access{
+	margin-left: -100px;
+}
+
+.bank{
+	margin-left: 150px;
+}
+.image{
+	margin-left: -100px;
+}
+
+.uba{
+	margin-left: -100px;
+}
+
+.user{
+	margin-top: 400px;
+}
+
+.user h2{
+	font-size: 15px;
+	font-family: inherit;
+	text-align: center;
+	color: blueviolet;
+}
+
+.user h1{
+	font-size: 45px;
+	text-align: center;
+	font-family: bell mt;
+	font-weight: bold;
+}
+
+.zenith{
+	margin-left: -100px;
+}
+
+.skype{
+	margin-left: -100px;
+}
+
+.first{
+	margin-left: -100px;
+}
+
+.ahmad{
+   margin-left: 70px;
+}
+
+.ahmad h3{
+	margin-top: -37px;
+	margin-left: 60px;
+	font-size: 12px;
+}
+
+.ahmad small{
+	margin-left: 60px;
+	position: relative;
+	top: -15px;
+}
+
+.ahmad p{
+   font-size: 15px;
+   color: grey;
+   font-family: bell mt;
+}
+
+.eric{
+	margin-left: 500px;
+	margin-top: -150px;
+}
+
+.eric h4{
+	margin-top: -50px;
+	margin-left: 80px;
+	font-size: 12px;
+}
+
+.eric small{
+	margin-left: 80px;
+	position: relative;
+	top: -20px;
+}
+
+.eric p{
+   font-size: 15px;
+   color: grey;
+   font-family: bell mt;
+   margin-top: -1px;
+}
+
+.emma{
+	margin-left: 70%;
+	margin-top: -150px;
+}
+
+.emma h5{
+	margin-top: -40px;
+	margin-left: 80px;
+	font-size: 12px;
+}
+
+.emma small{
+	margin-left: 82px;
+	position: relative;
+	top: -26px;
+}
+
+.emma p{
+   font-size: 15px;
+   color: grey;
+   font-family: bell mt;
+   position: relative;
+   top: -25px;
+   margin-left: 10px;
+}
+
+.payment{
+	margin-top: 200px;
+}
+
+.payment h1{
+	font-size: 15px;
+	color: blueviolet;
+	margin-left: 40px;
+	font-family: bell mt;
+}
+
+.payment p{
+	font-size: 40px;
+	font-family: bell mt;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+.money{
+	margin-top: 80px;
+	margin-left: 350px;
+}
+
+.money h2{
+	font-size: 15px;
+	font-family: bell mt;
+	color: black;
+	margin-left: 40px;
+}
+
+.money p{
+	font-size: 15px;
+	color: grey;
+	margin-top: -5px;
+}
+
+.secure{
+   margin-left: 800px;
+   margin-top: -100px;
+}
+
+.secure h3{
+	font-size: 15px;
+	font-family: bell mt;
+	color: black; 
+	font-family: inherit;
+	margin-left: -20px;
+} 
+
+.secure p{
+	font-size: 15px;
+	font-family: bell mt;
+	margin-top: -5px;
+	margin-left: -20px;
+	color: grey;
+}
+
+.opay{
+	margin-left: 68%;
+	margin-top: 300px;
+}
+
+.opay h2{
+	font-size: 15px;
+	font-family: bell mt;
+	color: blueviolet;
+}
+
+.opay h1{
+	font-size: 40px;
+}
+
+.opay p{
+	font-size: 15px;
+	color: grey;
+}
+
+.opay h3{
+	color: black;
+	font-size: 12px;
+	margin-top: 15px;
+}
+
+.opay img{
+	margin-left: -900px;
+	position: relative;
+	top: 150px;
+}
+
+.agent{
+	margin-top: 150px;
+	background-color: blueviolet;
+	padding: 70px 70px 150px 180px;
+
+}
+
+.agent h1{
+	font-size: 40px;
+	color: white;
+	font-family: bell mt;
+	position: relative;
+	top: 10px; 
+	padding-left: 60px;
+}
+
+.agent p{
+	font-size: 15px;
+	font-family: inherit;
+	position: relative;
+	top: 8px;
+	padding-left: 60px;
+	color: white;
+}
+
+.agent a{
+	background-color: white;
+	color: blueviolet;
+	padding: 30px;
+	border-radius: 50px;
+	font-size: 15px;
+	position: relative;
+	top: 30px;
+	text-decoration: none;
+	margin-left: 40px;
+}
+
+.agent span{
+	position: relative;
+	top: 30px;
+	color: white;
+}
+
+
+.src{
+	float: right;
+	padding-right: 20px;
+	position: relative;
+	top: -427px;
+}
+
+.smart{
+	margin-top: 60px;
+}
+
+.smart h1{
+	font-size: 15px;
+	margin-left: 35px;
+    margin-top: -30px;
+    color: grey;
+}
+
+.terms{
+	margin-left: 400px;
+	margin-top: -128px;
+}
+
+.terms h1{
+	font-size: 15px;
+	font-family: inherit;
+}
+
+.terms li{
+	list-style-type: none;
+	color: grey;
+}
+
+.us{
+   margin-left: 700px;
+   position: relative;
+   top: -350px;
+}
+
+.us h1{
+	font-size: 15px;
+	font-family: inherit;
+}
+
+.us li{
+	list-style-type: none;
+	color: grey;
+}
+
+.ofood{
+	margin-left: 70%;
+	position: relative;
+	top: -420px;
+}
+
+.ofood h1{
+	font-size: 15px;
+	font-family: inherit;
+}
+
+.ofood li{
+     list-style-type: none;
+	color: grey;
+}
+
+.follow{
+	margin-left: 80%;
+	position: relative;
+	top: -523px;
+}
+
+.follow h1{
+	font-size: 15px;
+	font-family: inherit;
+}
+
+.follow div{
+	color: grey;
+}
